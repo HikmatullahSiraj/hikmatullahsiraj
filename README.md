@@ -22,31 +22,22 @@ I’m a passionate **Software Engineer & Full-Stack Web Developer** with 3+ year
 
 #### 🗂️ Digital Archive System  
 A secure, multi-user file management system with folder-level access control, ZIP extraction, and role-based dashboards.  
-
 #### 🏦 KYC (Know Your Customer) System  
 A web-based customer data management platform with Excel export, secure database integration, and form validation.  
-
 #### ⚙️ Admin Dashboard  
 An intuitive control panel for managing users, folders, and uploads with full CRUD operations and access control.  
-
 #### 💼 Hiring Filter (Jawid Mukhtar Ahmad L.T.D)  
 Recruitment management tool for screening, filtering, and tracking applicants with smart data insights.  
-
 #### 💳 Card Management System  
 Secure platform for issuing and managing banking cards, ensuring high integrity and traceability.  
-
 #### 🎫 Ticket Management & Call Center Systems  
 Helpdesk-style tools for tracking customer interactions, assigning tickets, and improving service efficiency.  
-
 #### 🏫 Kabul Center Institute Website  
 Professional institutional site with course listings, announcements, and student registration system.  
-
 #### 💰 Helal English Center – Finance App  
 Financial tracking app for managing student payments, budgeting, and expense management.  
-
 #### 💼 Murabaha Financing System  
 Islamic finance system to manage Murabaha contracts, payments, and approvals with full audit logs.  
-
 #### 🛎️ Reception & Data Center Systems  
 Solutions for visitor tracking, IT infrastructure monitoring, and network asset management.  
 
