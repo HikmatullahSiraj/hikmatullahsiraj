@@ -5,41 +5,25 @@
 
 ### 🧠 About Me  
 I’m a passionate **Software Engineer & Full-Stack Web Developer** with 3+ years of experience in **PHP, MySQL, JavaScript, and modern web technologies**.  
-🌍 Based in **Afghanistan**, I specialize in developing **secure, scalable, and user-centric systems** — particularly in **Digital Archives**, **Banking**, and **KYC (Know Your Customer)** solutions.  
-🚀 I enjoy transforming complex challenges into clean, efficient, and reliable code.
+🌍 Based in **Afghanistan**, I focus on creating **secure, scalable, and user-centric systems** — especially for **Digital Archives**, **Banking**, and **KYC (Know Your Customer)** applications.  
+🚀 I love transforming complex challenges into elegant, efficient code with an emphasis on **security, performance**, and **clean architecture**.
 
 ---
 
 ### 🛠️ Tech Stack  
 **Languages:** PHP | JavaScript | HTML | CSS | SQL  
-**Frameworks & Tools:** Bootstrap | PhpSpreadsheet | MySQL | XAMPP  
-**Specialties:** File management systems | Role-based dashboards | Authentication | Data handling  
-**Interests:** Cybersecurity | Networking | Database Optimization  
+**Frameworks & Tools:** Bootstrap | MySQL | PhpSpreadsheet | XAMPP  
+**Focus Areas:** File Management Systems | Role-Based Dashboards | Authentication | Data Handling  
+**Other Interests:** Cybersecurity | Networking | Database Optimization  
 
 ---
 
 ### 🌟 Featured Projects  
-
-#### 🗂️ Digital Archive System  
-A secure, multi-user file management system with folder-level access control, ZIP extraction, and role-based dashboards.  
-#### 🏦 KYC (Know Your Customer) System  
-A web-based customer data management platform with Excel export, secure database integration, and form validation.  
-#### ⚙️ Admin Dashboard  
-An intuitive control panel for managing users, folders, and uploads with full CRUD operations and access control.  
-#### 💼 Hiring Filter (Jawid Mukhtar Ahmad L.T.D)  
-Recruitment management tool for screening, filtering, and tracking applicants with smart data insights.  
-#### 💳 Card Management System  
-Secure platform for issuing and managing banking cards, ensuring high integrity and traceability.  
-#### 🎫 Ticket Management & Call Center Systems  
-Helpdesk-style tools for tracking customer interactions, assigning tickets, and improving service efficiency.  
-#### 🏫 Kabul Center Institute Website  
-Professional institutional site with course listings, announcements, and student registration system.  
-#### 💰 Helal English Center – Finance App  
-Financial tracking app for managing student payments, budgeting, and expense management.  
-#### 💼 Murabaha Financing System  
-Islamic finance system to manage Murabaha contracts, payments, and approvals with full audit logs.  
-#### 🛎️ Reception & Data Center Systems  
-Solutions for visitor tracking, IT infrastructure monitoring, and network asset management.  
+- 🗂️ **Digital Archive System** — Secure file management with folder-level access and role-based dashboards.  
+- 🏦 **KYC System** — Web-based customer entry and verification platform with Excel export & database integration.  
+- ⚙️ **Admin Dashboard** — Dynamic control panel for managing users, folders, and file uploads.  
+- 💼 **Hiring Filter & Card Management** — Recruitment and banking tools with data-driven workflows.  
+- 🏫 **Educational & Finance Apps** — Websites and applications for institutes, finance tracking, and ticketing systems.
 
 ---
 
@@ -54,4 +38,4 @@ Solutions for visitor tracking, IT infrastructure monitoring, and network asset 
 
 ---
 
-⭐ _“Turning ideas into secure, scalable, and elegant software solutions.”_  
+⭐ _“Turning ideas into secure, scalable, and elegant software solutions.”_
