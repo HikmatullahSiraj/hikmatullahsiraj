@@ -1,75 +1,66 @@
-### Full Stack Web Developer 
+<h1 align="center">👋 Hi, I'm Eng. Hikmatullah Siraj</h1>
+<h3 align="center">💻 Full Stack Web Developer | Software Engineer | Tech Enthusiast</h3>
 
-👋 Hi, I’m Eng. Hikmatullah Siraj
+---
 
-💻 I’m a dedicated Software Engineer & Full-Stack Web Developer with expertise in PHP, MySQL, JavaScript, and modern web technologies.
-🌍 Based in Afghanistan, I focus on designing and developing secure, scalable, and user-centric software solutions — particularly in Digital Archives, Banking Systems, and KYC (Know Your Customer) applications.
-🚀 I’m passionate about transforming complex challenges into elegant, efficient code, with a strong emphasis on data security, performance optimization, and clean architecture.
+### 🧠 About Me  
+I’m a passionate **Software Engineer & Full-Stack Web Developer** with 3+ years of experience in **PHP, MySQL, JavaScript, and modern web technologies**.  
+🌍 Based in **Afghanistan**, I specialize in developing **secure, scalable, and user-centric systems** — particularly in **Digital Archives**, **Banking**, and **KYC (Know Your Customer)** solutions.  
+🚀 I enjoy transforming complex challenges into clean, efficient, and reliable code.
 
-🛠️ Tech Stack
-Languages: PHP, JavaScript, HTML, CSS, SQL
-Frameworks & Tools: Bootstrap, MySQL, PhpSpreadsheet, XAMPP
-Specialties: File management systems, role-based dashboards, secure authentication, data handling
-Other Interests: Cybersecurity, Networking, and Database Optimization
+---
 
-🌟 Projects
+### 🛠️ Tech Stack  
+**Languages:** PHP | JavaScript | HTML | CSS | SQL  
+**Frameworks & Tools:** Bootstrap | PhpSpreadsheet | MySQL | XAMPP  
+**Specialties:** File management systems | Role-based dashboards | Authentication | Data handling  
+**Interests:** Cybersecurity | Networking | Database Optimization  
 
-🗂️ Digital Archive System: A secure, multi-user file management system with folder-level access control and role-based dashboards.
-🏦 KYC System: A web-based customer information entry and management platform integrated with Excel export and database storage.
-⚙️ Admin Dashboard: Dynamic admin control panel for managing users, folders, and data uploads.
+---
 
+### 🌟 Featured Projects  
 
-🌟 Projects Portfolio
-🗂️ Digital Archive System
-A secure, multi-user file management system with folder-level access control, role-based dashboards, and ZIP extraction with preserved folder structure.
-🏦 KYC (Know Your Customer) System
-A comprehensive web-based customer entry and verification platform featuring Excel export, secure database integration, and form validation.
-⚙️ Admin Dashboard
-An advanced control panel for managing users, folders, permissions, and uploads — built with PHP, MySQL, and Bootstrap for a seamless UI/UX.
-🧩 Hiring Filter 
-An intelligent recruitment management tool for screening, filtering, and tracking applicants with data-driven insights.
-💳 Card Management System
-Secure web platform for issuing, managing, and tracking banking cards, designed for high data integrity and easy maintenance.
-📞 Call Center System
-A web-based solution for managing customer calls, logging interactions, and improving service efficiency through automated reports.
-👨‍💼 Staff Directory
-An internal portal that centralizes employee data with search, filter, and access control functionality for HR departments.
-🎫 Ticket Management System
-Helpdesk-style application for tracking issues, assigning tickets, and monitoring resolution progress in real time.
-🌐 All Types Tutorials Website
-A responsive educational website offering structured learning materials and tutorials for various subjects.
-🏫 Kabul Center Institute Website
-A professional institutional website with course listings, announcements, and student registration management.
-💰 Helal English Center – Finance App
-A financial tracking application for managing student payments, expenses, and budgeting for academic centers.
-💼 Murabaha Financing System
-An Islamic finance web application to manage Murabaha contracts, payments, and approvals with audit logging.
-🛎️ Reception System
-A visitor management and appointment tracking platform for office reception desks and front-desk coordination.
-🖥️ Data Center Management System
-A system for monitoring, maintaining, and documenting IT infrastructure, network assets, and server details.
+#### 🗂️ Digital Archive System  
+A secure, multi-user file management system with folder-level access control, ZIP extraction, and role-based dashboards.  
 
+#### 🏦 KYC (Know Your Customer) System  
+A web-based customer data management platform with Excel export, secure database integration, and form validation.  
 
-📫 Connect With Me
-💼 LinkedIn: linkedin.com/in/hikmatullah-siraj-52154323a
-🌐 Website: alltypestutorials.com
-            hikmatullahsiraj.tech
-📘 Facebook: facebook.com/EngHikmatullahSiraj
-🎥 YouTube: @hikmatullahsiraj5574
-💬 WhatsApp Channel: Join Here
-✉️ Email: hikmat.siraj2222@gmail.com
+#### ⚙️ Admin Dashboard  
+An intuitive control panel for managing users, folders, and uploads with full CRUD operations and access control.  
 
-<!--
-**HikmatullahSiraj/hikmatullahsiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💼 Hiring Filter (Jawid Mukhtar Ahmad L.T.D)  
+Recruitment management tool for screening, filtering, and tracking applicants with smart data insights.  
 
-Here are some ideas to get you started:
+#### 💳 Card Management System  
+Secure platform for issuing and managing banking cards, ensuring high integrity and traceability.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎫 Ticket Management & Call Center Systems  
+Helpdesk-style tools for tracking customer interactions, assigning tickets, and improving service efficiency.  
+
+#### 🏫 Kabul Center Institute Website  
+Professional institutional site with course listings, announcements, and student registration system.  
+
+#### 💰 Helal English Center – Finance App  
+Financial tracking app for managing student payments, budgeting, and expense management.  
+
+#### 💼 Murabaha Financing System  
+Islamic finance system to manage Murabaha contracts, payments, and approvals with full audit logs.  
+
+#### 🛎️ Reception & Data Center Systems  
+Solutions for visitor tracking, IT infrastructure monitoring, and network asset management.  
+
+---
+
+### 📫 Connect With Me  
+
+🌐 **Website:** [alltypestutorials.com](https://alltypestutorials.com) | [hikmatullahsiraj.tech](https://hikmatullahsiraj.tech)  
+💼 **LinkedIn:** [linkedin.com/in/hikmatullah-siraj-52154323a](https://www.linkedin.com/in/hikmatullah-siraj-52154323a/)  
+📘 **Facebook:** [facebook.com/EngHikmatullahSiraj](https://www.facebook.com/EngHikmatullahSiraj)  
+🎥 **YouTube:** [@hikmatullahsiraj5574](https://www.youtube.com/@hikmatullahsiraj5574)  
+💬 **WhatsApp Channel:** [Join Here](https://whatsapp.com/channel/0029VaD57A7Fy72HwUN30h2V)  
+✉️ **Email:** [hikmat.siraj2222@gmail.com](mailto:hikmat.siraj2222@gmail.com)
+
+---
+
+⭐ _“Turning ideas into secure, scalable, and elegant software solutions.”_  
