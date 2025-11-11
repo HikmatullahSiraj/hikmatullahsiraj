@@ -18,6 +18,10 @@ I’m a passionate **Software Engineer & Full-Stack Web Developer** with 3+ year
 
 ---
 
+### 🤝 Need a Developer? I’m Here!  
+Stop searching for the right developer. Whether it’s a **website**, **database**, or **custom application**,  
+I bring your vision to life with **clean code** and **professional execution**.  
+
 #### 💡 What I Deliver:
 🚀 **Fast Loading** – Optimized for performance and user experience  
 📱 **Mobile Responsive** – Perfect on all devices and screen sizes  
