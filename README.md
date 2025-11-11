@@ -18,12 +18,9 @@ I’m a passionate **Software Engineer & Full-Stack Web Developer** with 3+ year
 
 ---
 
-### 🌟 Featured Projects  
-- 🗂️ **Digital Archive System** — Secure file management with folder-level access and role-based dashboards.  
-- 🏦 **KYC System** — Web-based customer entry and verification platform with Excel export & database integration.  
-- ⚙️ **Admin Dashboard** — Dynamic control panel for managing users, folders, and file uploads.  
-- 💼 **Hiring Filter & Card Management** — Recruitment and banking tools with data-driven workflows.  
-- 🏫 **Educational & Finance Apps** — Websites and applications for institutes, finance tracking, and ticketing systems.
+### NEED A DEVELOPER? I'M HERE.
+-  **Stop searching for the right developer. Whether it's a website, database, or custom application ** — I bring your vision to life with clean code and professional execution..  
+
 
 ---
 
