@@ -3,10 +3,21 @@
 
 ---
 
+<p align="center">
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+</p>
+
+---
+
 ### 🧠 About Me  
 I’m a passionate **Software Engineer & Full-Stack Web Developer** with 3+ years of experience in **PHP, MySQL, JavaScript, and modern web technologies**.  
-🌍 Based in **Afghanistan**, I focus on creating **secure, scalable, and user-centric systems** — especially for **Digital Archives**, **Banking**, and **KYC (Know Your Customer)** applications.  
-🚀 I love transforming complex challenges into elegant, efficient code with an emphasis on **security, performance**, and **clean architecture**.
+🌍 Based in **Afghanistan**, I specialize in building **secure, scalable, and user-friendly systems** — especially in **Digital Archives**, **Banking Systems**, and **KYC (Know Your Customer)** solutions.  
+🚀 I enjoy turning complex challenges into **clean, efficient, and maintainable code**, focusing on performance, data security, and scalability.
 
 ---
 
@@ -15,6 +26,15 @@ I’m a passionate **Software Engineer & Full-Stack Web Developer** with 3+ year
 **Frameworks & Tools:** Bootstrap | MySQL | PhpSpreadsheet | XAMPP  
 **Focus Areas:** File Management Systems | Role-Based Dashboards | Authentication | Data Handling  
 **Other Interests:** Cybersecurity | Networking | Database Optimization  
+
+---
+
+### 🌟 Featured Projects  
+- 🗂️ **Digital Archive System** — Secure file management with folder-level access and role-based dashboards.  
+- 🏦 **KYC System** — Customer entry & verification platform with Excel export and database integration.  
+- ⚙️ **Admin Dashboard** — User and folder management system with upload, rename, and permission control.  
+- 💼 **Hiring Filter & Card Management** — Recruitment and banking automation tools.  
+- 🏫 **Educational & Finance Apps** — Websites and finance tracking apps for institutes and centers.  
 
 ---
 
